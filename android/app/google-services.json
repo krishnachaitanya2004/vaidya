@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389708704",
+    "project_id": "vaidya-975c7",
+    "storage_bucket": "vaidya-975c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389708704:android:c2630ce9177a0ac0f3c2c5",
+        "android_client_info": {
+          "package_name": "com.example.vaidya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389708704-jo56sd69fd11rtfk5gd1qj228crtv18j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzMQyciS1Vuwc2PKMoatMX1mGjNhELeGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389708704-jo56sd69fd11rtfk5gd1qj228crtv18j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
