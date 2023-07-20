@@ -1,16 +1,12 @@
-# vaidya
-
+## Flutter bottom navigation with intro screen
 A new Flutter project.
 
-## Getting Started
+Getting Started
+This project is a starting point for a Flutter application. Download app from here(make sure you have access downloading from google-drive) Note: This is only for android
 
-This project is a starting point for a Flutter application.
+link : 
+https://drive.google.com/file/d/1w9EVlQkv_WUm5n8bL6TR2KVd-vEDCNCB/view?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
+For running this in your system make sure you installed flutter in your system and clone this repo and run in it vs code us (F5)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
